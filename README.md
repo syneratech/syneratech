@@ -14,9 +14,9 @@ El cáncer es una de las principales causas de muerte a nivel mundial.
 Aumento en la inversión en el sector salud, especialmente en oncología.  
 La transición desde la investigación inicial hasta la comercialización es un proceso complejo y costoso.
 
-### ❗ Desafíos Principales
+### ❗ Retos Principales
 Aumento en la prevalencia del cáncer y otros problemas de salud.  
-Dinámicas y desafíos del mercado al invertir en soluciones de salud.
+Dinámicas y retos del mercado al invertir en soluciones de salud.
 
 ### 🧪 Investigación y Desarrollo
 La investigación inicial en salud a menudo se realiza en centros públicos y universidades.  
